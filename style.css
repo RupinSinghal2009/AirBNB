@@ -1,0 +1,22 @@
+body{
+	background-image: url(lighthouse.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+ul{
+    text-align: right;
+    font-size: 23px;
+    color: white;
+    font-size: 35px;
+    font-family: jokerman;
+}
+
+li{
+	display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#airbnb{
+	float: left;
+}
